@@ -1,0 +1,58 @@
+{
+  "Python": [
+    {
+      "title": "Python Documentation",
+      "provider": "Python.org",
+      "url": "https://docs.python.org/3/tutorial/",
+      "type": "Documentation"
+    }
+  ],
+  "Machine Learning Fundamentals": [
+    {
+      "title": "Machine Learning Crash Course",
+      "provider": "Google",
+      "url": "https://developers.google.com/machine-learning/crash-course",
+      "type": "Course"
+    }
+  ],
+  "SQL": [
+    {
+      "title": "SQL Tutorial",
+      "provider": "W3Schools",
+      "url": "https://www.w3schools.com/sql/",
+      "type": "Tutorial"
+    }
+  ],
+  "Large Language Models": [
+    {
+      "title": "Hugging Face NLP Course",
+      "provider": "Hugging Face",
+      "url": "https://huggingface.co/learn/nlp-course/",
+      "type": "Course"
+    }
+  ],
+  "RAG": [
+    {
+      "title": "Retrieval-Augmented Generation",
+      "provider": "Hugging Face",
+      "url": "https://huggingface.co/learn/cookbook/en/rag_evaluation",
+      "type": "Learning Resource"
+    }
+  ],
+  "Git & GitHub": [
+  {
+    "title": "Git Documentation",
+    "provider": "Git",
+    "url": "https://git-scm.com/doc",
+    "type": "Documentation"
+  }
+],
+"Data Structures": [
+  {
+    "title": "OpenDSA",
+    "provider": "OpenDSA",
+    "url": "https://opendsa-server.cs.vt.edu/",
+    "type": "Interactive Textbook"
+  }
+]
+}

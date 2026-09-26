@@ -1,0 +1,72 @@
+{
+  "GenAI Engineer": {
+    "description": "Build applications powered by Large Language Models and Generative AI.",
+    "skills": [
+      "Python",
+      "Git & GitHub",
+      "Machine Learning Fundamentals",
+      "NLP Fundamentals",
+      "Large Language Models",
+      "Prompt Engineering",
+      "Embeddings",
+      "Vector Databases",
+      "RAG",
+      "LLM APIs",
+      "FastAPI",
+      "Docker"
+    ]
+  },
+
+  "Machine Learning Engineer": {
+    "description": "Build, deploy and maintain machine learning systems.",
+    "skills": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "Statistics",
+      "Machine Learning",
+      "Feature Engineering",
+      "Model Evaluation",
+      "Scikit-learn",
+      "Deep Learning",
+      "FastAPI",
+      "Docker",
+      "MLOps Fundamentals"
+    ]
+  },
+
+  "Data Scientist": {
+    "description": "Use data, statistics and machine learning to solve real-world problems.",
+    "skills": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "SQL",
+      "Statistics",
+      "Data Visualization",
+      "Exploratory Data Analysis",
+      "Machine Learning",
+      "Feature Engineering",
+      "Model Evaluation",
+      "Power BI",
+      "Communication"
+    ]
+  },
+  
+  "Data Analyst": {
+    "description": "Analyze data and generate insights that support business decisions.",
+    "skills": [
+      "Excel",
+      "SQL",
+      "Python",
+      "Pandas",
+      "Statistics",
+      "Data Cleaning",
+      "Exploratory Data Analysis",
+      "Data Visualization",
+      "Power BI",
+      "Business Intelligence",
+      "Communication"
+    ]
+  }
+}
